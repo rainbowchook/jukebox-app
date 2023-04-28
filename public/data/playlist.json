@@ -1,0 +1,35 @@
+[
+  {
+    "id": "808012f8-fd74-497f-8bfa-27240f3a68c5",
+    "title": "Fantasy Classical",
+    "url": "./songs/fantasy-classical.mp3",
+    "artist": "The Piano Guys",
+    "genre": "Classical",
+    "favourite": true
+  },
+  {
+    "id": "811220a9-df49-4d9a-9002-8503533acf3e",
+    "title": "Gates of Heaven",
+    "url": "./songs/gates-of-heaven.mp3",
+    "artist": "Troubadours",
+    "genre": "Contemporary",
+    "favourite": true
+  },
+  {
+    "id": "0bfc7fcf-0426-4729-910b-5e2f3cf463a9",
+    "title": "Grand Orchestra",
+    "url": "./songs/grand-orchestra.mp3",
+    "artist": "Berlin Symphony Orchestra",
+    "genre": "Classical",
+    "favourite": true
+  },
+  {
+    "id": "8a24811d-ae23-47bf-868f-9c5fc23114e8",
+    "title": "Piano Song",
+    "url": "./songs/piano-song.mp3",
+    "artist": "Jarrod Radnich",
+    "genre": "Evocative",
+    "favourite": true
+  }
+
+]
